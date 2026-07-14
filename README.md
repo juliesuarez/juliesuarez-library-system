@@ -34,8 +34,3 @@ This allows to borrow a book from the system.
 ### Borrowed Books List
 Description of the borrowed books list view goes here.
 This shows all borrowed books from the system.
-
-## 📊 My coding activity this week
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
